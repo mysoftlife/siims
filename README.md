@@ -1,4 +1,5 @@
-# 核心框架：
+#SIIMS --集成智造平台
+#核心框架
 framework
 #组件包：
 common --公共包
