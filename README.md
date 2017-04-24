@@ -1,8 +1,8 @@
 # SIIMS --核心框架
 framework
 # SIIMS --组件包：
-common --公共包
-sys --用户管理
+common --公共包  
+sys --用户管理 
 oauth2 --Oauth2授权
 log--日志组件
 fileupload --文件上传组件
