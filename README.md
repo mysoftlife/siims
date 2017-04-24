@@ -1,7 +1,6 @@
-#SIIMS --集成智造平台
-#核心框架
+# SIIMS --核心框架
 framework
-#组件包：
+# SIIMS --组件包：
 common --公共包
 sys --用户管理
 oauth2 --Oauth2授权
